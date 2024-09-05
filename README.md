@@ -1,5 +1,5 @@
 # Food_delivery_and_profitability_project
-The Food Delivery project is about examining the orders made to a restaurant and determining the profitability of the orders with respect to expenses. I extracted the data cleaned and analyzed it using descriptive statitical methods and causal inference. 
+The Food Delivery project is about examining the orders made to a restaurant and determining the profitability of the orders with respect to expenses. I extracted the data cleaned and analyzed it using descriptive statistical methods and causal inference. 
 Some of the results include:
 * A percentage discount of 10% and 5% provided a higher profit than 15%. Furthermore, higher costs are exhibited in higher percentage discounts
 * All payment methods experience refunds, therefore, refunds are not attributed to specific payment methods
